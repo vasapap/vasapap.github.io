@@ -1,1 +1,1 @@
-Redirect 301 /1.html http://www.domain.ru/new_page.html
+Redirect 301 / http://www.newdomain.ru/
